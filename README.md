@@ -1,5 +1,5 @@
 # Tasks
-Scripts to make life easier for my friends
+Scripts to make Matias life easier.
 
 Reason for uploading: So matias doesnt lose it.
 
