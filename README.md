@@ -3,6 +3,8 @@ Scripts to make life easier for my friends
 
 Reason for uploading: So matias doesnt lose it.
 
+Example of what it does:
+
 It processes IPs in this format:
 10.8.1.50	0
 10.8.1.51	0
