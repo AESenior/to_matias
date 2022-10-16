@@ -3,9 +3,9 @@ Scripts to make Matias life easier.
 
 Reason for uploading: in case Matias loses it.
 
-Example of what it does:
+##Example of what it does:
 
-### It processes IPs in this format:
+#### It processes IPs in this format:
 - 10.8.1.50	0
 - 10.8.1.51	0
 - 10.142.125/4123,4124,2441
@@ -15,7 +15,7 @@ Example of what it does:
 - 10.344.421/5123
 - 10.412.412
 
-### And converts them to:
+#### And converts them to:
 - 10.8.1.50/0
 - 10.8.1.51/0
 - 10.142.125/4123
